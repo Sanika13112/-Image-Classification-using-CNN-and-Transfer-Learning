@@ -179,7 +179,7 @@ Contains project documentation, methodology, technologies, and instructions for 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/USERNAME/GenerativeAssignment1.git
+https://github.com/Sanika13112/-Image-Classification-using-CNN-and-Transfer-Learning/blob/main/GenerativeAssignment1_0047.ipynb
 ```
 
 ### 2. Open the Notebook
