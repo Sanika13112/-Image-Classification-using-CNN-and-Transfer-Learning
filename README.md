@@ -202,7 +202,7 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn
 Open:
 
 ```text
-GenerativeAssignment1.ipynb
+GenerativeAssignment1_0047.ipynb
 ```
 
 Run the cells **sequentially from top to bottom**.
